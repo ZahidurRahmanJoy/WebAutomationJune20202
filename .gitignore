@@ -1,0 +1,10 @@
+../Users/zrahm/Desktop/MidtermJune2020/.project
+.settings
+/target
+.idea/*
+/.classpath
+*.iml
+*/**/*.iml
+*/target
+*/.classpath
+*/.class
